@@ -38,6 +38,11 @@
 <img src = "img/23.JPG" width = 50%>
 
 
+Ссылка на код задание 2
+
+https://github.com/dvbychkov/ter-homeworks_02_hw-02/tree/master/lab2/2/src
+
+
 Задача 3
 1. Создайте в корне проекта файл 'vms_platform.tf' . Перенесите в него все переменные первой ВМ.
 2. Скопируйте блок ресурса и создайте с его помощью вторую ВМ в файле main.tf: "netology-develop-platform-db" , cores  = 2, memory = 2, core_fraction = 20. Объявите её переменные с префиксом vm_db_ в том же файле ('vms_platform.tf'). ВМ должна работать в зоне "ru-central1-b"
@@ -56,6 +61,11 @@
 <img src = "img/35.JPG" width = 50%>
 
 
+Ссылка на код задание 3
+
+https://github.com/dvbychkov/ter-homeworks_02_hw-02/tree/master/lab2/3/src
+
+
 Задача 4
 
 1. Объявите в файле outputs.tf один output , содержащий: instance_name, external_ip, fqdn для каждой из ВМ в удобном лично для вас формате.(без хардкода!!!)
@@ -65,6 +75,11 @@
 <img src = "img/4.JPG" width = 50%>
 
 <img src = "img/41.JPG" width = 50%>
+
+
+Ссылка на код задание 4
+
+https://github.com/dvbychkov/ter-homeworks_02_hw-02/tree/master/lab2/4/src
 
 
 Задача 5
@@ -78,6 +93,11 @@
 <img src = "img/51.JPG" width = 50%>
 
 <img src = "img/52.JPG" width = 50%>
+
+
+Ссылка на код задание 5
+
+https://github.com/dvbychkov/ter-homeworks_02_hw-02/tree/master/lab2/5/src
 
 
 Задача 6
@@ -123,3 +143,8 @@ metadata = {
 <img src = "img/622.JPG" width = 50%>
 
 <img src = "img/623.JPG" width = 50%>
+
+
+Ссылка на код задание 5
+
+https://github.com/dvbychkov/ter-homeworks_02_hw-02/tree/master/lab2/6/src
